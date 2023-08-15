@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 1,
+    "title": "Taking Flight into the Future: The Allure of Drones",
+    "content": "Drones have soared beyond mere technological marvels, captivating the world with their boundless potential. From breathtaking aerial photography to efficient delivery systems, these unmanned wonders have revolutionized industries and ignited imaginations. This article delves into the captivating realm of drones, uncovering their diverse applications, from conservation to entertainment. Discover the artistry of aerial cinematography, the precision of crop monitoring, and the convenience of rapid deliveries. As drones continue to redefine our world, we explore the enchanting allure that keeps us gazing upwards, eager to witness the limitless possibilities they hold.",
+    "date": "2023-08-10",
+    "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Recipe: Galaxy-Inspired Cupcakes",
+    "content": "Unveil the cosmos in your kitchen with these stunning galaxy cupcakes. Swirls of vibrant colors mimic the stars, making every bite an otherworldly experience.",
+    "date": "2023-08-10",
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Invention of the FlutterBike",
+    "content": "Introducing the groundbreaking FlutterBike – a bicycle with wings! Soar through the skies as you pedal, enjoying a unique blend of cycling and flying.",
+    "date": "2023-08-10",
+    "image": "/images/3.jpg"
+  }
+]
