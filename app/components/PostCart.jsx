@@ -19,7 +19,7 @@ const PostCard = ({ item }) => {
             <h1 className="text-3xl font-semibold text-gray-800 mb-2">{title}</h1>
           </div>
         </Link>
-        <p className="text-gray-600">{content}</p>
+      
       </div>
     </div>
   );
