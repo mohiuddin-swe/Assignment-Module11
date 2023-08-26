@@ -4,7 +4,7 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <div className='container mx-auto'>
-      <h1 className='text-center text-3xl p-10 m-5 bg-yellow-500 animate-pulse'>Module11 Assignment: A Blog Project</h1>
+      
       <Image
         src="/images/cover.gif"
         height={800}
